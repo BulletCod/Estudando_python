@@ -19,6 +19,6 @@ if hora_str.isdigit():
     elif hora_noite:
         print('boa noite!')
     else:
-        print('digite uma hora real')        
+        print('digite uma hora valida')        
 else:
     print('digite uma hora inteira')
