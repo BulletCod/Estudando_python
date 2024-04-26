@@ -44,4 +44,3 @@ if cpf == cpf_completo:
 else: 
     print('CPF invalido')
 
-   
